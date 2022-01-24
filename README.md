@@ -1,7 +1,7 @@
 # hello-world
 
-This is an edit of the README file pursuant to the tutorial indicated in the assignment given in CSC425, Mobile and Web programming.
+Is it cool that I use the same hello world repository last semester in CSC425 as I do now in CSC430?
 
-I am old. The "Does anyone in here even know about Oregon Trail?" bit in lecture wounded me deeply.
+Guess we'll find out. Hello, again.
 
-This is fine.
+Hope we get to see some more XKCD comics in the slides to come. Classic.
