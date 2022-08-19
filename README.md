@@ -1,6 +1,6 @@
 # hello-world
 
-Is it cool that I use the same hello world repository last semester in CSC425 as I do now in CSC430?
+Is it cool that I use the same hello world repository that I used for last semester?
 
 Guess we'll find out. Hello, again.
 
